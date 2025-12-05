@@ -18,7 +18,7 @@ o API (Swagger): https://serverest.dev/
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone git@github.com:YagoCastroWorks/ab-inbevTech.git
    ```
 2. Install dependencies:
    ```bash
